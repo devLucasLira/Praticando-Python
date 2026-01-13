@@ -1,2 +1,2 @@
 # Praticando-Python
-**Aqui eu compartilho minha tragetoria praticamente do zero em Python.**
+**Repositório de exercícios Python, do básico ao que tô aprendendo agora..**
